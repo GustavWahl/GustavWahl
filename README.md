@@ -11,7 +11,7 @@
 - 🔭  I have always had a passion for creating software where I can apply my knowledge while still learning new technologies. I’m always looking for new challenges and learning new skills to further my expertise in this industry
 
 
-  <img align="center" src="https://media.giphy.com/media/MyWrJJIdAfoJuEPlLP/giphy.gif" width="850" height="15">
+  <img align="center" src="https://media.giphy.com/media/MyWrJJIdAfoJuEPlLP/giphy.gif" width="800" height="15">
 
 
 
