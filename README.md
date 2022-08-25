@@ -1,6 +1,4 @@
   
-  <img align="center" src="https://media.giphy.com/media/MyWrJJIdAfoJuEPlLP/giphy.gif" width="800" height="50">
-
 
 
  <a href="https://www.linkedin.com/in/gustavwahl/">
@@ -10,11 +8,11 @@
 <h3>About me:</h3>
 
 
-- 🔭 Programming mainly in Java and JavaScript but I have also used languages such as C#, C, Python, and Php. 
-I have most of my experience in full stack development of web applications and APIs but recently focused more on artificial intelligence, cloud, and distributed computing.
--->
+- 🔭  I have always had a passion for creating software where I can apply my knowledge while still learning new technologies. I’m always looking for new challenges and learning new skills to further my expertise in this industry
 
-<br/>
+
+  <img align="center" src="https://media.giphy.com/media/MyWrJJIdAfoJuEPlLP/giphy.gif" width="850" height="15">
+
 
 
 <h4>Programming / Code languages:</h4>
@@ -29,6 +27,7 @@ I have most of my experience in full stack development of web applications and A
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 </div>
+
 
 
 <!--
