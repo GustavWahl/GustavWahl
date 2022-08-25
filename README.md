@@ -1,21 +1,14 @@
   
-  <img src="https://media.giphy.com/media/MyWrJJIdAfoJuEPlLP/giphy.gif" width="800" height="50">
+  <img align="center" src="https://media.giphy.com/media/MyWrJJIdAfoJuEPlLP/giphy.gif" width="800" height="50">
 
 
-<h3 align="center">
-  Welcome to my page
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-<br/>
-<br/>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/gustavwahl/">
+
+ <a href="https://www.linkedin.com/in/gustavwahl/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-</h3>
-
 
 <h3>About me:</h3>
+
 
 - 🔭 Programming mainly in Java and JavaScript but I have also used languages such as C#, C, Python, and Php. 
 I have most of my experience in full stack development of web applications and APIs but recently focused more on artificial intelligence, cloud, and distributed computing.
